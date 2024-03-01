@@ -59,7 +59,7 @@ class Dataset(BaseDataset):
             (row['Parameter_ID'], row['Original_Name']): row
             for row in self.etc_dir.read_csv('codes.csv', dicts=True)}
 
-        for parameter in parameter_table.values():
+        for parameter in parameter_table:
             if parameter.get('Closed_Value_Set') == 'yes':
                 possible_values = {
                     value
@@ -88,7 +88,7 @@ class Dataset(BaseDataset):
                 'Value': value,
             }
             for row in raw_data
-            for parameter in parameter_table.values()
+            for parameter in parameter_table
             if (value := row.get(parameter['Original_Name']))]
 
         args.writer.cldf.add_component('LanguageTable')
@@ -96,6 +96,6 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_component('CodeTable', 'Map_Icon')
 
         args.writer.objects['LanguageTable'] = language_table
-        args.writer.objects['ParameterTable'] = parameter_table.values()
+        args.writer.objects['ParameterTable'] = parameter_table
         args.writer.objects['CodeTable'] = code_table.values()
         args.writer.objects['ValueTable'] = value_table
