@@ -1,0 +1,17 @@
+ID,Original_Name,Name,Description,Closed_Value_Set
+numeral-system,Numeral system,Numeral system,,
+numeral-subsystem,Numeral subsystem,Numeral subsystem,,
+formation-of-5,Formation of 5,Formation of 5,,no
+formation-of-10,Formation of 10,Formation of 10,,no
+formation-of-15,Formation of 15,Formation of 15,,no
+formation-of-20,Formation of 20,Formation of 20,,no
+formation-of-40,Formation of 40,Formation of 40,,no
+binary-counting,Evidence of binary counting?,Evidence of binary counting?,,yes
+ternary-counting,Evidence of ternary counting?,Evidence of ternary counting?,,yes
+quaternary-counting,Evidence of quaternary counting?,Evidence of quaternary counting?,,yes
+quinary-counting,Evidence of quinary counting?,Evidence of quinary counting?,,yes
+senary-counting,Evidence of senary counting?,Evidence of senary counting?,,yes
+decimal-counting,Evidence of decimal counting?,Evidence of decimal counting?,,yes
+vigesimal-counting,Evidence of vigesimal counting?,Evidence of vigesimal counting?,,yes
+bodypart-tallying,Evidence of a body-part tallying system?,Evidence of a body-part tallying system?,,yes
+hand-word,Documentation of a hand word used somewhere? (Papuan languages only),Documentation of a hand word used somewhere? (Papuan languages only),,yes
