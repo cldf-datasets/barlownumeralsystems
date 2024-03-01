@@ -1,0 +1,45 @@
+ID,Parameter_ID,Name,Description,Map_Icon
+system-binary,numeral-system,binary,,c0000dd
+system-decimal,numeral-system,decimal,,cdd0000
+system-quinary,numeral-system,quinary,,cffff00
+system-uncommon,numeral-system,uncommon,,c009900
+system-unknown,numeral-system,unknown,,tcccccc
+subsystem-binary-proper,numeral-subsystem,binary proper,,c0000dd
+subsystem-binary-3,numeral-subsystem,binary+3,,cdd0000
+subsystem-binary-4,numeral-subsystem,binary+4,,cffff00
+subsystem-decimal-modified,numeral-subsystem,decimal modified,,c009900
+subsystem-decimal-proper,numeral-subsystem,decimal proper,,c990099
+subsystem-quaternary,numeral-subsystem,quaternary,,s0000dd
+subsystem-quinary,numeral-subsystem,quinary,,sdd0000
+subsystem-senary,numeral-subsystem,senary,,sffff00
+subsystem-unknown,numeral-subsystem,unknown,,tcccccc
+binary-counting-insufficient-data,binary-counting,insufficient data,,
+binary-counting-maybe,binary-counting,maybe,,
+binary-counting-no,binary-counting,no,,
+binary-counting-yes,binary-counting,yes,,
+ternary-counting-insufficient-data,ternary-counting,insufficient data,,
+ternary-counting-maybe,ternary-counting,maybe,,
+ternary-counting-no,ternary-counting,no,,
+quaternary-counting-insufficient-data,quaternary-counting,insufficient data,,
+quaternary-counting-maybe,quaternary-counting,maybe,,
+quaternary-counting-no,quaternary-counting,no,,
+quaternary-counting-yes,quaternary-counting,yes,,
+quinary-counting-insufficient-data,quinary-counting,insufficient data,,
+quinary-counting-maybe,quinary-counting,maybe,,
+quinary-counting-no,quinary-counting,no,,
+quinary-counting-yes,quinary-counting,yes,,
+senary-counting-insufficient-data,senary-counting,insufficient data,,
+senary-counting-maybe,senary-counting,maybe,,
+senary-counting-no,senary-counting,no,,
+senary-counting-yes,senary-counting,yes,,
+decimal-counting-insufficient-data,decimal-counting,insufficient data,,
+decimal-counting-maybe,decimal-counting,maybe,,
+decimal-counting-no,decimal-counting,no,,
+decimal-counting-yes,decimal-counting,yes,,
+vigesimal-counting-insufficient-data,vigesimal-counting,insufficient data,,
+vigesimal-counting-maybe,vigesimal-counting,maybe,,
+vigesimal-counting-no,vigesimal-counting,no,,
+vigesimal-counting-yes,vigesimal-counting,yes,,
+bodypart-tallying-maybe,bodypart-tallying,maybe,,
+bodypart-tallying-yes,bodypart-tallying,yes,,
+hand-word-yes,hand-word,yes,,
