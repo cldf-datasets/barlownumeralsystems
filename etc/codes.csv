@@ -1,8 +1,9 @@
 ID,Parameter_ID,Original_Name,Name,Map_Icon
 system-binary,numeral-system,binary,binary,c0000dd
 system-decimal,numeral-system,decimal,decimal,cdd0000
+system-quaternary,numeral-system,quaternary,quaternary,c009900
 system-quinary,numeral-system,quinary,quinary,cffff00
-system-uncommon,numeral-system,uncommon,uncommon,c009900
+system-senary,numeral-system,senary,senary,c009900
 system-unknown,numeral-system,unknown,unknown,tcccccc
 subsystem-binary-proper,numeral-subsystem,binary proper,binary proper,c0000dd
 subsystem-binary-3,numeral-subsystem,binary+3,binary+3,cdd0000
