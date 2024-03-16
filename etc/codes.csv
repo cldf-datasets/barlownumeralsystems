@@ -1,16 +1,16 @@
 ID,Parameter_ID,Original_Name,Name,Map_Icon
-system-binary,numeral-system,binary,binary,c0000dd
-system-decimal,numeral-system,decimal,decimal,cdd0000
-system-quaternary,numeral-system,quaternary,quaternary,cffff00
-system-quinary,numeral-system,quinary,quinary,c009900
-system-senary,numeral-system,senary,senary,c990099
-system-unknown,numeral-system,unknown,unknown,tcccccc
-subsystem-binary-proper,numeral-subsystem,binary proper,binary proper,c0000dd
-subsystem-binary-3,numeral-subsystem,binary+3,binary+3,cdd0000
-subsystem-binary-4,numeral-subsystem,binary+4,binary+4,cffff00
-subsystem-decimal-modified,numeral-subsystem,decimal modified,decimal modified,c009900
-subsystem-decimal-proper,numeral-subsystem,decimal proper,decimal proper,c990099
-subsystem-quaternary,numeral-subsystem,quaternary,quaternary,s0000dd
-subsystem-quinary,numeral-subsystem,quinary,quinary,sdd0000
-subsystem-senary,numeral-subsystem,senary,senary,sffff00
-subsystem-unknown,numeral-subsystem,unknown,unknown,tcccccc
+system-binary,numeral-system,binary,binary,c000000
+system-decimal,numeral-system,decimal,decimal,cFF0000
+system-quaternary,numeral-system,quaternary,quaternary,c006400
+system-quinary,numeral-system,quinary,quinary,cFFFF00
+system-senary,numeral-system,senary,senary,c9370DB
+system-unknown,numeral-system,unknown,unknown,ccccccc
+subsystem-binary-proper,numeral-subsystem,binary proper,binary proper,c000000
+subsystem-binary-3,numeral-subsystem,binary+3,binary+3,t000000
+subsystem-binary-4,numeral-subsystem,binary+4,binary+4,s000000
+subsystem-decimal-modified,numeral-subsystem,decimal modified,decimal modified,dFF0000
+subsystem-decimal-proper,numeral-subsystem,decimal proper,decimal proper,cFF0000
+subsystem-quaternary,numeral-subsystem,quaternary,quaternary,c006400
+subsystem-quinary,numeral-subsystem,quinary,quinary,cFFFF00
+subsystem-senary,numeral-subsystem,senary,senary,c9370DB
+subsystem-unknown,numeral-subsystem,unknown,unknown,ccccccc
