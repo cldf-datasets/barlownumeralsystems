@@ -170,11 +170,10 @@ onoo1246,Ono,Papunesia,-6.19223,147.579,onoo1246,ons
 gwah1244,Gwahatike,Papunesia,-5.64555,146.455,gwah1244,dah
 fora1245,Forak,Papunesia,-5.69079,146.541,fora1245,frq
 mura1271,Muratayak,Papunesia,-5.74416,146.54,mura1271,asx
-tand1259,Tanda,Papunesia,-5.744131,146.607144,tand1259,
 dege1247,Degenan,Papunesia,-5.70892,146.572,dege1247,dge
+yago1240,Tanda-Yagomi,Papunesia,-5.74049,146.603,yago1240,ygm
 guya1251,Guya,Papunesia,-5.70374,146.453,guya1251,gka
 bulg1265,Bulgebi,Papunesia,-5.69713,146.403,bulg1265,bmp
-yago1240,Yagomi,Papunesia,-5.74049,146.603,yago1240,ygm
 asar1240,Asaro'o,Papunesia,-5.68263,146.508,asar1240,mtv
 mole1239,Molet,Papunesia,-5.663114,146.525207,mole1239,
 nank1250,Nankina,Papunesia,-5.80804,146.464,nank1250,nnk
@@ -366,7 +365,7 @@ anja1238,Anjam,Papunesia,-5.45899,145.717,anja1238,boj
 bong1291,Bongu,Papunesia,-5.50519,145.806,bong1291,bpu
 male1291,Male (Papua New Guinea),Papunesia,-5.49975,145.757,male1291,mdc
 samm1244,Sam,Papunesia,-5.55572,145.813,samm1244,snx
-jili1241,Jilim,Papunesia,-5.56611,145.706,jili1241,jil
+jili1241,Sgi Bara,Papunesia,-5.56611,145.706,jili1241,jil
 rera1240,Rerau,Papunesia,-5.51361,145.716,rera1240,rea
 biyo1244,Biyom,Papunesia,-5.79929,145.348,biyo1244,bpm
 tauy1241,Tauya,Papunesia,-5.74255,145.366,tauy1241,tya
@@ -465,6 +464,12 @@ amam1246,Amam,Papunesia,-7.9,146.92,amam1246,
 weri1253,Weri,Papunesia,-7.71834,146.914,weri1253,wer
 nucl1458,Monumbo,Papunesia,-4.2717,144.95,nucl1458,mxk
 lila1246,Lilau,Papunesia,-4.35479,144.99,lila1246,lll
+ango1255,Angoram,Papunesia,-4.07758,144.028,ango1255,aog
+cham1313,Chambri,Papunesia,-4.27831,143.097,cham1313,can
+muri1260,Murik (Papua New Guinea),Papunesia,-3.86959,144.166,muri1260,mtf
+kopa1248,Kopar,Papunesia,-3.98259,144.466,kopa1248,xop
+yima1243,Yimas,Papunesia,-4.71731,143.572,yima1243,yee
+tabr1243,Tabriak,Papunesia,-4.49162,143.593,tabr1243,tzx
 tuwa1242,Tuwari,Papunesia,-4.80315,142.095,tuwa1242,tww
 yawi1238,Yawiyo,Papunesia,-4.58133,142.112,yawi1238,ybx
 nucl1453,Walio,Papunesia,-4.41234,142.231,nucl1453,wla
@@ -511,6 +516,7 @@ kasu1251,Kasua,Papunesia,-6.64861,142.993,kasu1251,khs
 onob1238,Onobasulu,Papunesia,-6.30876,142.776,onob1238,onn
 soni1260,Sonia,Papunesia,-6.42736,142.589,soni1260,siq
 kalu1248,Kaluli,Papunesia,-6.45932,142.788,kalu1248,bco
+tand1259,Tanda,Papunesia,-5.744131,146.607144,tand1259,
 orya1242,Orya,Papunesia,-2.76483,139.89,orya1242,ury
 mand1443,Mander,Papunesia,-2.29479,138.751,mand1443,mqr
 beri1254,Berik,Papunesia,-2.26904,138.866,beri1254,bkl
@@ -548,6 +554,7 @@ basa1287,Basay,Papunesia,25.0046,121.857,basa1287,byq
 kava1241,Kavalan,Papunesia,24.6947,121.645,kava1241,ckv
 amis1246,Amis,Papunesia,23.0917,121.348,amis1246,ami
 saki1247,Sakizaya,Papunesia,24.026316,121.531394,saki1247,szy
+sund1252,Sundanese,Papunesia,-6.89708,107.106,sund1252,sun
 engg1245,Enggano,Papunesia,-5.38846,102.245,engg1245,eno
 cham1312,Chamorro,Papunesia,13.438011,144.74474,cham1312,cha
 atii1237,Ati,Papunesia,11.1539,122.512,atii1237,atk
@@ -648,6 +655,7 @@ hanu1241,Hanunoo,Papunesia,12.4159,121.221,hanu1241,hnn
 buhi1245,Buhid,Papunesia,12.6396,121.21,buhi1245,bku
 west2559,Western Tawbuid,Papunesia,12.8227,121.026,west2559,twb
 east2482,Eastern Tawbuid,Papunesia,12.8968,121.177,east2482,bnj
+badu1237,Badui,Papunesia,-6.35359,106.177,badu1237,bac
 kawi1241,Kawi,Papunesia,-7.0,111.0,kawi1241,kaw
 teng1272,Tengger,Papunesia,-7.89069,113.037,teng1272,tes
 osin1237,Osing,Papunesia,-8.25262,114.292,osin1237,osi
@@ -717,14 +725,16 @@ lora1237,Lorang,Papunesia,-6.30338,134.41,lora1237,lrn
 mano1275,Manombai,Papunesia,-5.94468,134.329,mano1275,woo
 koba1240,Koba,Papunesia,-6.47901,134.61,koba1240,kpd
 dobe1238,Dobel,Papunesia,-6.32531,134.638,dobe1238,kvo
+nucl1460,Madurese,Papunesia,-7.0,113.0,nucl1460,mad
+kang1289,Kangean,Papunesia,-7.98335,112.968,kang1289,kkv
 beny1237,Benyadu',Papunesia,0.78534,109.753,beny1237,byd
 beka1241,Riuk Bekati',Papunesia,1.3307,109.576,beka1241,bei
 sara1329,Sara Bakati',Papunesia,1.20403,109.6155,sara1329,sre
 rara1235,Rara Bakati',Papunesia,1.27026,109.539,rara1235,lra
-baub1235,Bau-Jagoi Bidayuh,Papunesia,1.54467,109.985,baub1235,sne
-biat1246,Biatah Bidayuh,Papunesia,1.17596,110.254,biat1246,bth
 trin1271,Tringgus-Sembaan Bidayuh,Papunesia,1.4313,109.95,trin1271,trx
 buka1257,Bukar-Sadung Bidayuh,Papunesia,0.96817,110.657,buka1257,sdo
+baub1235,Bau-Jagoi Bidayuh,Papunesia,1.54467,109.985,baub1235,sne
+biat1246,Biatah Bidayuh,Papunesia,1.17596,110.254,biat1246,bth
 sema1269,Onya Darat,Papunesia,-0.75188,110.527,sema1269,sdm
 jang1257,Jangkang,Papunesia,0.29738,110.647,jang1257,djo
 kemb1249,Mateq,Papunesia,0.66181,110.468,kemb1249,xem
@@ -885,6 +895,9 @@ lian1255,Liana-Seti,Papunesia,-3.11832,129.899,lian1255,ste
 sala1269,Salas,Papunesia,-3.14654,130.53,sala1269,sgu
 agut1237,Agutaynen,Papunesia,10.5328,119.655,agut1237,agn
 cala1258,Calamian Tagbanwa,Papunesia,12.0716,120.094,cala1258,tbk
+bali1278,Balinese,Papunesia,-8.35714,115.075,bali1278,ban
+sumb1241,Sumbawa,Papunesia,-8.71919,117.472,sumb1241,smw
+sasa1249,Sasak,Papunesia,-8.58349,116.284,sasa1249,sas
 basa1286,Basap,Papunesia,1.41405,117.942,basa1286,bdb
 dusu1271,Dusun Deyah,Papunesia,-1.95514,115.578,dusu1271,dun
 dusu1269,Dusun Malang,Papunesia,-0.85277,115.392,dusu1269,duq
@@ -1041,83 +1054,6 @@ aben1249,Abenlen Ayta,Papunesia,15.4131,120.2,aben1249,abp
 boto1242,Botolan Sambal,Papunesia,15.2315,120.164,boto1242,sbl
 tina1248,Tinà Sambal,Papunesia,15.5797,120.095,tina1248,xsb
 boli1256,Bolinao,Papunesia,16.3071,119.853,boli1256,smk
-sund1252,Sundanese,Papunesia,-6.89708,107.106,sund1252,sun
-badu1237,Badui,Papunesia,-6.35359,106.177,badu1237,bac
-nucl1460,Madurese,Papunesia,-7.0,113.0,nucl1460,mad
-kang1289,Kangean,Papunesia,-7.98335,112.968,kang1289,kkv
-duan1242,Duano,Papunesia,0.72162,103.46759,duan1242,dup
-mala1480,Malayic Dayak,Papunesia,-2.78384,111.136,mala1480,xdy
-oldm1243,Old Malay,Papunesia,-0.648259,103.353479,oldm1243,
-haji1235,Haji,Papunesia,-5.07781,104.714,haji1235,hji
-keni1248,Keninjal,Papunesia,-0.63184,111.808,keni1248,knl
-mual1241,Mualang,Papunesia,0.31083,111.077,mual1241,mtd
-sebe1242,Seberuang,Papunesia,-0.02463,111.212,sebe1242,sbx
-remu1237,Remun,Papunesia,1.26305,110.82,remu1237,lkj
-iban1264,Iban,Papunesia,2.09041,112.934,iban1264,iba
-kend1254,Kendayan-Belangin,Papunesia,1.47957,109.467,kend1254,knx
-ment1251,Menterap,Papunesia,-0.293181,110.670512,ment1251,
-mala1479,Central Malay,Eurasia,1.85856,103.0,mala1479,zlm
-jaku1244,Jakun,Eurasia,2.64582,103.342,jaku1244,jak
-teng1267,Tenggarong Kutai Malay,Papunesia,0.71803,117.645,teng1267,vkt
-bali1279,Balinese Malay,Papunesia,-8.355884,114.648391,bali1279,mhp
-oran1259,Orang Seletar,Eurasia,1.45841,103.766,oran1259,ors
-oran1258,Orang Kanaq,Eurasia,1.88296,104.008,oran1258,orn
-temu1239,Temuan,Eurasia,2.78176,101.906,temu1239,tmw
-keda1251,Kedah-Perak Malay,Eurasia,5.933,100.492,keda1251,meo
-patt1249,Kelantan-Pattani Malay,Eurasia,6.38148,101.41,patt1249,mfa
-urak1238,Urak Lawoi',Eurasia,7.5258,99.0768,urak1238,urk
-kota1275,Kota Bangun Kutai Malay,Papunesia,-0.27049,116.297,kota1275,mqg
-bera1262,Berau Malay,Papunesia,1.6687,117.934,bera1262,bve
-saba1263,Sabah Malay,Papunesia,4.64808,117.024,saba1263,msi
-brun1242,Brunei,Papunesia,4.456045,114.429505,brun1242,kxd
-baca1243,Bacanese Malay,Papunesia,-0.62275,127.49,baca1243,btj
-buki1247,Bukit Malay,Papunesia,-2.75049,115.64,buki1247,bvu
-banj1239,Banjar,Papunesia,0.747105,115.79,banj1239,bjn
-cent2053,South Barisan Malay,Papunesia,-3.79673,103.137,cent2053,pse
-kaur1269,Kaur,Papunesia,-4.6251,103.512,kaur1269,vkk
-jamb1236,Jambi Malay,Papunesia,-2.6469,103.13,jamb1236,jax
-lonc1237,Loncong,Papunesia,-0.02586,103.548,lonc1237,lce
-bang1365,Bangka,Papunesia,-1.73288,105.897,bang1365,mfb
-keri1250,Kerinci,Papunesia,-1.93668,101.403,keri1250,kvr
-nege1240,Negeri Sembilan Malay,Eurasia,2.66503,102.291,nege1240,zmi
-lubu1241,Lubu,Papunesia,0.63989,99.74549,lubu1241,lcf
-peka1242,Pekal,Papunesia,-3.02248,101.691,peka1242,pel
-mina1268,Minangkabau,Papunesia,-0.896,100.44,mina1268,min
-maka1305,Makassar Malay,Papunesia,-5.16108,119.408,maka1305,mfp
-sril1245,Sri Lanka Malay,Eurasia,6.91603,79.864,sril1245,sci
-baba1267,Baba Malay,Eurasia,1.75414,103.076,baba1267,mbf
-mala1482,Malaccan Creole Malay,Eurasia,2.20265,102.240488,mala1482,ccm
-lara1260,Larantuka Malay,Papunesia,-8.4746,122.7619,lara1260,lrt
-kupa1239,Kupang Malay,Papunesia,-10.2526,123.63,kupa1239,mkn
-papu1250,Papuan Malay,Papunesia,-2.53482,139.651,papu1250,pmy
-band1353,Banda Malay,Papunesia,-4.55565,129.905,band1353,bpq
-ambo1250,Ambonese Malay,Papunesia,-3.71342,128.184,ambo1250,abs
-mala1481,Manado Malay,Papunesia,1.48099,124.843,mala1481,xmm
-nort2828,North Moluccan Malay,Papunesia,-0.86437,128.323,nort2828,max
-gora1261,Gorap,Papunesia,2.13058,128.261,gora1261,goq
-stan1306,Standard Malay,Eurasia,3.08896,101.699,stan1306,zsm
-indo1316,Standard Indonesian,Papunesia,-7.33458,109.716,indo1316,ind
-coco1260,Cocos Islands Malay,Papunesia,-12.193342,96.833679,coco1260,coa
-beta1252,Betawi,Papunesia,-6.21174,107.022,beta1252,bew
-pera1256,Peranakan Indonesian,Papunesia,-7.982,112.619,pera1256,pea
-kubu1239,Kubu,Papunesia,-2.42661,102.193,kubu1239,kvb
-coll1240,Col,Papunesia,-3.52245,103.451,coll1240,liw
-musi1241,Musi,Papunesia,-2.93987,103.945,musi1241,mui
-achi1257,Acehnese,Papunesia,3.90757,96.6032,achi1257,ace
-haro1237,Haroi,Eurasia,13.2201,108.995,haro1237,hro
-east2563,Eastern Cham,Eurasia,11.2853,108.49,east2563,cjm
-west2650,Western Cham,Eurasia,12.4771,104.026,west2650,cja
-sout3010,Southern Roglai,Eurasia,11.3003,108.318,sout3010,rgs
-chru1239,Chru,Eurasia,11.6625,108.529,chru1239,cje
-cacg1235,Cacgia Roglai,Eurasia,11.6489,109.138,cacg1235,roc
-nort2994,Northern Roglai,Eurasia,12.1967,108.849,nort2994,rog
-tsat1238,Tsat,Eurasia,18.3192,109.336,tsat1238,huq
-rade1240,Rade,Eurasia,12.979,108.41,rade1240,rad
-biha1246,Bih,Eurasia,12.483333,108.016667,biha1246,ibh
-jara1266,Jarai,Eurasia,13.6161,107.813,jara1266,jra
-bali1278,Balinese,Papunesia,-8.35714,115.075,bali1278,ban
-sumb1241,Sumbawa,Papunesia,-8.71919,117.472,sumb1241,smw
-sasa1249,Sasak,Papunesia,-8.58349,116.284,sasa1249,sas
 argu1237,Arguni,Papunesia,-2.645798,132.5556,argu1237,agf
 erok1237,Erokwanas,Papunesia,-2.83746,132.705,erok1237,erw
 bedo1237,Bedoanas,Papunesia,-2.74438,132.566,bedo1237,bed
@@ -1243,9 +1179,9 @@ rapa1245,Mangaia-Old Rapa,Papunesia,-27.6304,-144.338,rapa1245,ray
 raro1241,Southern Cook Island Maori,Papunesia,-21.23,-159.78,raro1241,rar
 penr1237,Māngarongaro,Papunesia,-9.082238,-157.922908,penr1237,pnh
 tuam1242,Tuamotuan,Papunesia,-16.17259,-146.321755,tuam1242,pmt
-maor1246,Maori,Papunesia,-38.2881,176.541,maor1246,mri
 aust1304,Austral,Papunesia,-23.3843,-149.462,aust1304,aut
 tahi1242,Tahitian,Papunesia,-17.6485,-149.45,tahi1242,tah
+maor1246,Maori,Papunesia,-38.2881,176.541,maor1246,mri
 rapa1244,Rapanui,Papunesia,-27.113,-109.342,rapa1244,rap
 mang1401,Mangareva,Papunesia,-23.1095,-134.97,mang1401,mrv
 sout2866,South Marquesan,Papunesia,-9.75663,-138.979,sout2866,mqm
@@ -1796,6 +1732,76 @@ dica1235,Dicamay Agta,Papunesia,17.8846,121.606,dica1235,duy
 alan1249,Alangan,Papunesia,13.0982,121.022,alan1249,alj
 tady1237,Tadyawan,Papunesia,13.0211,121.305,tady1237,tdy
 iray1237,Iraya,Papunesia,13.381,120.65,iray1237,iry
+duan1242,Duano,Papunesia,0.72162,103.46759,duan1242,dup
+mala1480,Malayic Dayak,Papunesia,-2.78384,111.136,mala1480,xdy
+oldm1243,Old Malay,Papunesia,-0.648259,103.353479,oldm1243,
+haji1235,Haji,Papunesia,-5.07781,104.714,haji1235,hji
+keni1248,Keninjal,Papunesia,-0.63184,111.808,keni1248,knl
+mual1241,Mualang,Papunesia,0.31083,111.077,mual1241,mtd
+sebe1242,Seberuang,Papunesia,-0.02463,111.212,sebe1242,sbx
+remu1237,Remun,Papunesia,1.26305,110.82,remu1237,lkj
+iban1264,Iban,Papunesia,2.09041,112.934,iban1264,iba
+kend1254,Kendayan-Belangin,Papunesia,1.47957,109.467,kend1254,knx
+ment1251,Menterap,Papunesia,-0.293181,110.670512,ment1251,
+mala1479,Central Malay,Eurasia,1.85856,103.0,mala1479,zlm
+jaku1244,Jakun,Eurasia,2.64582,103.342,jaku1244,jak
+teng1267,Tenggarong Kutai Malay,Papunesia,0.71803,117.645,teng1267,vkt
+bali1279,Balinese Malay,Papunesia,-8.355884,114.648391,bali1279,mhp
+oran1259,Orang Seletar,Eurasia,1.45841,103.766,oran1259,ors
+oran1258,Orang Kanaq,Eurasia,1.88296,104.008,oran1258,orn
+temu1239,Temuan,Eurasia,2.78176,101.906,temu1239,tmw
+keda1251,Kedah-Perak Malay,Eurasia,5.933,100.492,keda1251,meo
+patt1249,Kelantan-Pattani Malay,Eurasia,6.38148,101.41,patt1249,mfa
+urak1238,Urak Lawoi',Eurasia,7.5258,99.0768,urak1238,urk
+kota1275,Kota Bangun Kutai Malay,Papunesia,-0.27049,116.297,kota1275,mqg
+bera1262,Berau Malay,Papunesia,1.6687,117.934,bera1262,bve
+saba1263,Sabah Malay,Papunesia,4.64808,117.024,saba1263,msi
+brun1242,Brunei,Papunesia,4.456045,114.429505,brun1242,kxd
+baca1243,Bacanese Malay,Papunesia,-0.62275,127.49,baca1243,btj
+buki1247,Bukit Malay,Papunesia,-2.75049,115.64,buki1247,bvu
+banj1239,Banjar,Papunesia,0.747105,115.79,banj1239,bjn
+cent2053,South Barisan Malay,Papunesia,-3.79673,103.137,cent2053,pse
+kaur1269,Kaur,Papunesia,-4.6251,103.512,kaur1269,vkk
+jamb1236,Jambi Malay,Papunesia,-2.6469,103.13,jamb1236,jax
+lonc1237,Loncong,Papunesia,-0.02586,103.548,lonc1237,lce
+bang1365,Bangka,Papunesia,-1.73288,105.897,bang1365,mfb
+keri1250,Kerinci,Papunesia,-1.93668,101.403,keri1250,kvr
+nege1240,Negeri Sembilan Malay,Eurasia,2.66503,102.291,nege1240,zmi
+lubu1241,Lubu,Papunesia,0.63989,99.74549,lubu1241,lcf
+peka1242,Pekal,Papunesia,-3.02248,101.691,peka1242,pel
+mina1268,Minangkabau,Papunesia,-0.896,100.44,mina1268,min
+maka1305,Makassar Malay,Papunesia,-5.16108,119.408,maka1305,mfp
+sril1245,Sri Lanka Malay,Eurasia,6.91603,79.864,sril1245,sci
+baba1267,Baba Malay,Eurasia,1.75414,103.076,baba1267,mbf
+mala1482,Malaccan Creole Malay,Eurasia,2.20265,102.240488,mala1482,ccm
+lara1260,Larantuka Malay,Papunesia,-8.4746,122.7619,lara1260,lrt
+kupa1239,Kupang Malay,Papunesia,-10.2526,123.63,kupa1239,mkn
+papu1250,Papuan Malay,Papunesia,-2.53482,139.651,papu1250,pmy
+band1353,Banda Malay,Papunesia,-4.55565,129.905,band1353,bpq
+ambo1250,Ambonese Malay,Papunesia,-3.71342,128.184,ambo1250,abs
+mala1481,Manado Malay,Papunesia,1.48099,124.843,mala1481,xmm
+nort2828,North Moluccan Malay,Papunesia,-0.86437,128.323,nort2828,max
+gora1261,Gorap,Papunesia,2.13058,128.261,gora1261,goq
+stan1306,Standard Malay,Eurasia,3.08896,101.699,stan1306,zsm
+indo1316,Standard Indonesian,Papunesia,-7.33458,109.716,indo1316,ind
+coco1260,Cocos Islands Malay,Papunesia,-12.193342,96.833679,coco1260,coa
+beta1252,Betawi,Papunesia,-6.21174,107.022,beta1252,bew
+pera1256,Peranakan Indonesian,Papunesia,-7.982,112.619,pera1256,pea
+kubu1239,Kubu,Papunesia,-2.42661,102.193,kubu1239,kvb
+coll1240,Col,Papunesia,-3.52245,103.451,coll1240,liw
+musi1241,Musi,Papunesia,-2.93987,103.945,musi1241,mui
+achi1257,Acehnese,Papunesia,3.90757,96.6032,achi1257,ace
+haro1237,Haroi,Eurasia,13.2201,108.995,haro1237,hro
+east2563,Eastern Cham,Eurasia,11.2853,108.49,east2563,cjm
+west2650,Western Cham,Eurasia,12.4771,104.026,west2650,cja
+sout3010,Southern Roglai,Eurasia,11.3003,108.318,sout3010,rgs
+chru1239,Chru,Eurasia,11.6625,108.529,chru1239,cje
+cacg1235,Cacgia Roglai,Eurasia,11.6489,109.138,cacg1235,roc
+nort2994,Northern Roglai,Eurasia,12.1967,108.849,nort2994,rog
+tsat1238,Tsat,Eurasia,18.3192,109.336,tsat1238,huq
+rade1240,Rade,Eurasia,12.979,108.41,rade1240,rad
+biha1246,Bih,Eurasia,12.483333,108.016667,biha1246,ibh
+jara1266,Jarai,Eurasia,13.6161,107.813,jara1266,jra
 toto1304,Totoli,Papunesia,1.14995,120.875,toto1304,txe
 boan1243,Boano (Sulawesi),Papunesia,0.51152,120.992,boan1243,bzl
 thao1240,Thao,Papunesia,23.8333,120.93,thao1240,ssf
@@ -2060,16 +2066,6 @@ gres1240,Gresi,Papunesia,-2.72229,140.279,gres1240,grs
 atoh1238,Atohwaim,Papunesia,-6.27123,138.666,atoh1238,aqm
 tama1336,Tamagario,Papunesia,-6.64493,138.892,tama1336,tcg
 kaya1328,Kayagar,Papunesia,-6.37677,138.932,kaya1328,kyt
-fiwa1240,Fiwaga,Papunesia,-6.66342,143.646,fiwa1240,fiw
-foii1241,Foi,Papunesia,-6.47258,143.495,foii1241,foi
-sawe1240,Saweru,Papunesia,-1.91473,136.296,sawe1240,swr
-nucl1454,Yawa,Papunesia,-1.77196,136.263,nucl1454,yva
-ango1255,Angoram,Papunesia,-4.07758,144.028,ango1255,aog
-cham1313,Chambri,Papunesia,-4.27831,143.097,cham1313,can
-muri1260,Murik (Papua New Guinea),Papunesia,-3.86959,144.166,muri1260,mtf
-kopa1248,Kopar,Papunesia,-3.98259,144.466,kopa1248,xop
-yima1243,Yimas,Papunesia,-4.71731,143.572,yima1243,yee
-tabr1243,Tabriak,Papunesia,-4.49162,143.593,tabr1243,tzx
 bana1292,Banaro,Papunesia,-4.56615,144.329,bana1292,byz
 raoo1244,Rao,Papunesia,-4.85243,144.511,raoo1244,rao
 aiom1240,Aiome,Papunesia,-5.13467,144.765,aiom1240,aki
@@ -2094,6 +2090,10 @@ tang1355,Tanggu,Papunesia,-4.4621,144.916,tang1355,tgu
 kang1291,Kanggape,Papunesia,-4.4153,144.816,kang1291,igm
 goro1261,Gorovu,Papunesia,-4.52947,144.59,goro1261,grq
 abuu1241,Abu,Papunesia,-4.24027,144.474,abuu1241,ado
+fiwa1240,Fiwaga,Papunesia,-6.66342,143.646,fiwa1240,fiw
+foii1241,Foi,Papunesia,-6.47258,143.495,foii1241,foi
+sawe1240,Saweru,Papunesia,-1.91473,136.296,sawe1240,swr
+nucl1454,Yawa,Papunesia,-1.77196,136.263,nucl1454,yva
 suki1245,Suki,Papunesia,-8.04783,141.842,suki1245,sui
 gogo1265,Gogodala,Papunesia,-8.08527,142.874,gogo1265,ggw
 arii1243,Ari,Papunesia,-7.95526,142.4,arii1243,aac

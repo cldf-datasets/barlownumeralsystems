@@ -8,17 +8,18 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:title": "Austronesian and Papuan Numeral Systems",
+    "dcat:accessURL": "https://github.com/cldf-datasets/barlownumeralsystems",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "barlownumeralsystems",
+            "rdf:about": "https://github.com/cldf-datasets/barlownumeralsystems",
             "rdf:type": "prov:Entity",
-            "dc:created": "11e6906",
+            "dc:created": "13d3f2d",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8",
+            "dc:created": "v5.0",
             "dc:title": "Glottolog"
         }
     ],
@@ -249,7 +250,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 44,
+            "dc:extent": 45,
             "tableSchema": {
                 "columns": [
                     {
