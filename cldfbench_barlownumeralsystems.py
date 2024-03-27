@@ -28,7 +28,7 @@ class Dataset(BaseDataset):
 
     def cmd_readme(self, args):
         section_header = (
-            'Barlow 2023 on Austronesian and Papuan Numeral Systems\n'
+            'Barlow 2023 on Austronesian and Papuan numeral systems\n'
             '======================================================\n'
             '\n')
         section_content = self.raw_dir.read('intro.md')

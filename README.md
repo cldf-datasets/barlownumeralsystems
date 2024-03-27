@@ -1,4 +1,4 @@
-Barlow 2023 on Austronesian and Papuan Numeral Systems
+Barlow 2023 on Austronesian and Papuan numeral systems
 ======================================================
 
 
