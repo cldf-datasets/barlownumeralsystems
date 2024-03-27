@@ -7,13 +7,14 @@
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
-    "dc:title": "Austronesian and Papuan Numeral Systems",
+    "dc:source": "sources.bib",
+    "dc:title": "Austronesian and Papuan numeral systems",
     "dcat:accessURL": "https://github.com/cldf-datasets/barlownumeralsystems",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/barlownumeralsystems",
             "rdf:type": "prov:Entity",
-            "dc:created": "dbf9297",
+            "dc:created": "8b5cd3c",
             "dc:title": "Repository"
         },
         {
@@ -201,6 +202,12 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
                     }
                 ],
                 "primaryKey": [
