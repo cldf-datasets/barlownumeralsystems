@@ -5,7 +5,7 @@ bibtexparser==2.0.0b7
 bs4==0.0.2
 certifi==2024.2.2
 cldfbench==1.14.0
--e git+https://github.com/cldf-datasets/barlownumeralsystems.git@8b5cd3c6d7b582bd4311a54304a8016d91b76535#egg=cldfbench_barlownumeralsystems
+-e git+https://github.com/cldf-datasets/barlownumeralsystems.git@698561808fc25cafe919ff96ee23e3f08bda9f65#egg=cldfbench_barlownumeralsystems
 cldfcatalog==1.5.1
 cldfzenodo==2.1.0
 clldutils==3.22.1
