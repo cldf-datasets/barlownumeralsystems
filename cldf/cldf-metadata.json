@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/barlownumeralsystems",
             "rdf:type": "prov:Entity",
-            "dc:created": "6985618",
+            "dc:created": "515c1ef",
             "dc:title": "Repository"
         },
         {
@@ -27,7 +27,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.8.19"
         },
         {
             "dc:title": "python-packages",
