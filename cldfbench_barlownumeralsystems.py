@@ -80,6 +80,7 @@ class Dataset(BaseDataset):
                 'Source': language_sources[lang.id],
             }
             for lang in args.glottolog.api.languoids(ids=glottocodes)]
+        language_table.sort(key=lambda lang: lang['ID'])
 
         for parameter in parameter_table:
             if parameter.get('Closed_Value_Set') == 'yes':
