@@ -14,33 +14,33 @@ subsystem-quaternary,numeral-subsystem,quaternary,,c006400
 subsystem-quinary,numeral-subsystem,quinary,,cFFFF00
 subsystem-senary,numeral-subsystem,senary,,c9370DB
 subsystem-unknown,numeral-subsystem,unknown,,ccccccc
-binary-counting-insufficient-data,binary-counting,insufficient data,,
-binary-counting-maybe,binary-counting,maybe,,
-binary-counting-no,binary-counting,no,,
-binary-counting-yes,binary-counting,yes,,
-ternary-counting-insufficient-data,ternary-counting,insufficient data,,
-ternary-counting-maybe,ternary-counting,maybe,,
-ternary-counting-no,ternary-counting,no,,
-quaternary-counting-insufficient-data,quaternary-counting,insufficient data,,
-quaternary-counting-maybe,quaternary-counting,maybe,,
-quaternary-counting-no,quaternary-counting,no,,
-quaternary-counting-yes,quaternary-counting,yes,,
-quinary-counting-insufficient-data,quinary-counting,insufficient data,,
-quinary-counting-maybe,quinary-counting,maybe,,
-quinary-counting-no,quinary-counting,no,,
-quinary-counting-yes,quinary-counting,yes,,
-senary-counting-insufficient-data,senary-counting,insufficient data,,
-senary-counting-maybe,senary-counting,maybe,,
-senary-counting-no,senary-counting,no,,
-senary-counting-yes,senary-counting,yes,,
-decimal-counting-insufficient-data,decimal-counting,insufficient data,,
-decimal-counting-maybe,decimal-counting,maybe,,
-decimal-counting-no,decimal-counting,no,,
-decimal-counting-yes,decimal-counting,yes,,
-vigesimal-counting-insufficient-data,vigesimal-counting,insufficient data,,
-vigesimal-counting-maybe,vigesimal-counting,maybe,,
-vigesimal-counting-no,vigesimal-counting,no,,
-vigesimal-counting-yes,vigesimal-counting,yes,,
-bodypart-tallying-maybe,bodypart-tallying,maybe,,
-bodypart-tallying-yes,bodypart-tallying,yes,,
-hand-word-yes,hand-word,yes,,
+binary-counting-insufficient-data,binary-counting,insufficient data,,ccccccc
+binary-counting-maybe,binary-counting,maybe,,cddffc0cb
+binary-counting-no,binary-counting,no,,dffffff
+binary-counting-yes,binary-counting,yes,,cdd0000
+ternary-counting-insufficient-data,ternary-counting,insufficient data,,ccccccc
+ternary-counting-maybe,ternary-counting,maybe,,cddffc0cb
+ternary-counting-no,ternary-counting,no,,dffffff
+quaternary-counting-insufficient-data,quaternary-counting,insufficient data,,ccccccc
+quaternary-counting-maybe,quaternary-counting,maybe,,cddffc0cb
+quaternary-counting-no,quaternary-counting,no,,dffffff
+quaternary-counting-yes,quaternary-counting,yes,,cdd0000
+quinary-counting-insufficient-data,quinary-counting,insufficient data,,ccccccc
+quinary-counting-maybe,quinary-counting,maybe,,cddffc0cb
+quinary-counting-no,quinary-counting,no,,dffffff
+quinary-counting-yes,quinary-counting,yes,,cdd0000
+senary-counting-insufficient-data,senary-counting,insufficient data,,ccccccc
+senary-counting-maybe,senary-counting,maybe,,cddffc0cb
+senary-counting-no,senary-counting,no,,dffffff
+senary-counting-yes,senary-counting,yes,,cdd0000
+decimal-counting-insufficient-data,decimal-counting,insufficient data,,ccccccc
+decimal-counting-maybe,decimal-counting,maybe,,cddffc0cb
+decimal-counting-no,decimal-counting,no,,dffffff
+decimal-counting-yes,decimal-counting,yes,,cdd0000
+vigesimal-counting-insufficient-data,vigesimal-counting,insufficient data,,ccccccc
+vigesimal-counting-maybe,vigesimal-counting,maybe,,cddffc0cb
+vigesimal-counting-no,vigesimal-counting,no,,dffffff
+vigesimal-counting-yes,vigesimal-counting,yes,,cdd0000
+bodypart-tallying-maybe,bodypart-tallying,maybe,,cddffc0cb
+bodypart-tallying-yes,bodypart-tallying,yes,,cdd0000
+hand-word-yes,hand-word,yes,,cFFFF00
