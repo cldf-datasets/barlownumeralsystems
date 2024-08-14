@@ -93,7 +93,8 @@ class Dataset(BaseDataset):
                      {'ID': '{}-{}'.format(parameter['ID'], normalise(value)),
                       'Parameter_ID': parameter['ID'],
                       'Name': value})
-                    for value in sorted(possible_values))
+                    for value in sorted(possible_values)
+                    if (parameter['ID'], value) not in code_table)
 
         value_table = [
             {

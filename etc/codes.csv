@@ -1,16 +1,46 @@
-ID,Parameter_ID,Original_Name,Name,Map_Icon
-system-binary,numeral-system,binary,binary,c000000
-system-decimal,numeral-system,decimal,decimal,cFF0000
-system-quaternary,numeral-system,quaternary,quaternary,c006400
-system-quinary,numeral-system,quinary,quinary,cFFFF00
-system-senary,numeral-system,senary,senary,c9370DB
-system-unknown,numeral-system,unknown,unknown,ccccccc
-subsystem-binary-proper,numeral-subsystem,binary proper,binary proper,c000000
-subsystem-binary-3,numeral-subsystem,binary+3,binary+3,t000000
-subsystem-binary-4,numeral-subsystem,binary+4,binary+4,s000000
-subsystem-decimal-modified,numeral-subsystem,decimal modified,decimal modified,dFF0000
-subsystem-decimal-proper,numeral-subsystem,decimal proper,decimal proper,cFF0000
-subsystem-quaternary,numeral-subsystem,quaternary,quaternary,c006400
-subsystem-quinary,numeral-subsystem,quinary,quinary,cFFFF00
-subsystem-senary,numeral-subsystem,senary,senary,c9370DB
-subsystem-unknown,numeral-subsystem,unknown,unknown,ccccccc
+ID,Parameter_ID,Original_Name,Name,Description,Colour,Map_Icon
+system-binary,numeral-system,binary,binary,,c000000,c000000
+system-decimal,numeral-system,decimal,decimal,,cFF0000,cFF0000
+system-quaternary,numeral-system,quaternary,quaternary,,c006400,c006400
+system-quinary,numeral-system,quinary,quinary,,cFFFF00,cFFFF00
+system-senary,numeral-system,senary,senary,,c9370DB,c9370DB
+system-unknown,numeral-system,unknown,unknown,,ccccccc,ccccccc
+subsystem-binary-proper,numeral-subsystem,binary proper,binary proper,,c000000,c000000
+subsystem-binary-3,numeral-subsystem,binary+3,binary+3,,t000000,t000000
+subsystem-binary-4,numeral-subsystem,binary+4,binary+4,,s000000,s000000
+subsystem-decimal-modified,numeral-subsystem,decimal modified,decimal modified,,dFF0000,dFF0000
+subsystem-decimal-proper,numeral-subsystem,decimal proper,decimal proper,,cFF0000,cFF0000
+subsystem-quaternary,numeral-subsystem,quaternary,quaternary,,c006400,c006400
+subsystem-quinary,numeral-subsystem,quinary,quinary,,cFFFF00,cFFFF00
+subsystem-senary,numeral-subsystem,senary,senary,,c9370DB,c9370DB
+subsystem-unknown,numeral-subsystem,unknown,unknown,,ccccccc,ccccccc
+binary-counting-insufficient-data,binary-counting,insufficient data,insufficient data,,grey,ccccccc
+binary-counting-maybe,binary-counting,maybe,maybe,,pink,cddffc0cb
+binary-counting-no,binary-counting,no,no,,white,dffffff
+binary-counting-yes,binary-counting,yes,yes,,red,cdd0000
+ternary-counting-insufficient-data,ternary-counting,insufficient data,insufficient data,,grey,ccccccc
+ternary-counting-maybe,ternary-counting,maybe,maybe,,pink,cddffc0cb
+ternary-counting-no,ternary-counting,no,no,,white,dffffff
+quaternary-counting-insufficient-data,quaternary-counting,insufficient data,insufficient data,,grey,ccccccc
+quaternary-counting-maybe,quaternary-counting,maybe,maybe,,pink,cddffc0cb
+quaternary-counting-no,quaternary-counting,no,no,,white,dffffff
+quaternary-counting-yes,quaternary-counting,yes,yes,,red,cdd0000
+quinary-counting-insufficient-data,quinary-counting,insufficient data,insufficient data,,grey,ccccccc
+quinary-counting-maybe,quinary-counting,maybe,maybe,,pink,cddffc0cb
+quinary-counting-no,quinary-counting,no,no,,white,dffffff
+quinary-counting-yes,quinary-counting,yes,yes,,red,cdd0000
+senary-counting-insufficient-data,senary-counting,insufficient data,insufficient data,,grey,ccccccc
+senary-counting-maybe,senary-counting,maybe,maybe,,pink,cddffc0cb
+senary-counting-no,senary-counting,no,no,,white,dffffff
+senary-counting-yes,senary-counting,yes,yes,,red,cdd0000
+decimal-counting-insufficient-data,decimal-counting,insufficient data,insufficient data,,grey,ccccccc
+decimal-counting-maybe,decimal-counting,maybe,maybe,,pink,cddffc0cb
+decimal-counting-no,decimal-counting,no,no,,white,dffffff
+decimal-counting-yes,decimal-counting,yes,yes,,red,cdd0000
+vigesimal-counting-insufficient-data,vigesimal-counting,insufficient data,insufficient data,,grey,ccccccc
+vigesimal-counting-maybe,vigesimal-counting,maybe,maybe,,pink,cddffc0cb
+vigesimal-counting-no,vigesimal-counting,no,no,,white,dffffff
+vigesimal-counting-yes,vigesimal-counting,yes,yes,,red,cdd0000
+bodypart-tallying-maybe,bodypart-tallying,maybe,maybe,,pink,cddffc0cb
+bodypart-tallying-yes,bodypart-tallying,yes,yes,,red,cdd0000
+hand-word-yes,hand-word,yes,yes,,yellow,cFFFF00
